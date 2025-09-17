@@ -1,0 +1,16 @@
+/*LOGIN PAGE CSS*/
+
+body {
+  background-color: #066353;
+}
+.login h1 a {
+  background-image: url("/wp-content/themes/salient-child/images/logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 70px;
+}
+input#wp-submit {
+  background: #066353;
+  border-radius: 25px;
+}
